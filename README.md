@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>REC Banda
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Lab
+<b> Experiment|     <b> Create a full simulation where students can calculate the energy band gap from the collected data.
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+In this experiment i have to create a full simulation using virtual reality with the help of unity engine where students can calculate the energy band gap from the collected data.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Aniruddh Yadav 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya Engineering College Banda
+<b> Email id|     <b>  2407340130012@recbanda.ac.in
+<b> Department |  Information Technology
 
 ### Contributors List
 
